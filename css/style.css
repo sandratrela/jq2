@@ -1,0 +1,15 @@
+#carousel {
+	margin: 0 auto;
+	max-width: 400px;
+	display: flex;
+	flex-wrap: nowrap;
+	overflow: hidden;
+}
+ul {
+	list-style: none;
+	display: flex;
+}
+li {
+	list-style: none;
+	display: flex;
+}
